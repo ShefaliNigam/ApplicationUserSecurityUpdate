@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.application.security.jwt.config.security.test.JwtAuthenticationFilterTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.175 s - in com.application.security.jwt.config.security.test.JwtAuthenticationFilterTest
